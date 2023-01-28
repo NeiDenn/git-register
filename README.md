@@ -1,2 +1,2 @@
 # git-register
-Página de crear una cuenta de inicio de sesión con Bootstrap5
+Formulario de registro usando HTML y BOOTSTRAP5
