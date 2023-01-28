@@ -2,7 +2,7 @@
 
 Formulario de registro usando HTML y BOOTSTRAP5
 
-### Check it live here
+## Check it live here
 
 No link at the moment.
 
